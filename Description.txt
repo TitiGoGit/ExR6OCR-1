@@ -1,12 +1,12 @@
-Premier exercice du cours Git et Github sur open Classrooms, qui cinsiste à:
-	- créer un pository
+Premier exercice du cours Git et Github sur open Classrooms, qui consiste à:
+	- créer un repository
 	- inclure divers fichiers
 	- commit les fichiers
-	- partager le pository
+	- partager le repository
 
 Merci à tous.
 
-J'ajoute un fichier en extention .odt , c'est une extention de texte pour libre office. Merci de le consulter et le cas échénat de répondre à la question.
+J'ajoute un fichier en extention .odt , c'est une extention de texte pour libre office. Merci de le consulter et le cas échéant de répondre à la question.
 Encore merci.
 
 Le fichier odt est ajouter, est t'il lisible dans github?
