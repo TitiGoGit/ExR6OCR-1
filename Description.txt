@@ -8,3 +8,5 @@ Merci à tous.
 
 J'ajoute un fichier en extention .odt , c'est une extention de texte pour libre office. Merci de le consulter et le cas échénat de répondre à la question.
 Encore merci.
+
+Le fichier odt est ajouter, est t'il lisible dans github?
